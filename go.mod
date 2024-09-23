@@ -1,4 +1,4 @@
-module github.com/lrstanley/bubblezone
+module github.com/sorcererxw/bubblezone
 
 go 1.19
 
